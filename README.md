@@ -22,6 +22,16 @@ Perhaps the most damning admission came from China's own leadership. According t
 
 Local officials' incentives to fabricate data are well-documented. The Federal Reserve noted in 2018 that "Chinese government regulators understand that certain MLPS requirements... create tremendous costs and challenges for foreign companies." The promotion system based on hitting economic targets has created systemic data manipulation, though specific figures about 20-year fabrication need additional citation.
 
+## The Youth Unemployment Cover-Up
+
+In summer 2023, China's youth unemployment data hit consecutive record highs: 20.4% in April, 20.8% in May, and 21.3% in June. Rather than address the crisis, authorities suspended the data entirely. NBC News reported in August 2023 that "China, facing record youth unemployment, says it will stop releasing data about it." TIME Magazine noted the timing: "Amid Rising Joblessness, China Stops Publishing Its Youth Unemployment Rate."
+
+The government cited a need to "reassess methodology" during the six-month data blackout. When statistics resumed in January 2024, the new methodology excluded enrolled students entirely—a convenient change that dramatically lowered the reported figures.
+
+The South China Morning Post reported that economist Louise Loo estimated unemployment "could have been closer to 25 per cent in December based on the old methodology." Under the new calculation, youth unemployment appeared at 14.9%—nearly 10 percentage points lower than what the old methodology would have shown.
+
+Chinese social media users saw through the maneuver. A Weibo comment that garnered over 9,000 upvotes captured the public sentiment: "What they really meant to say is, the current data is too ugly, let's not look at it for now." The episode illustrated a familiar pattern: when economic data becomes inconvenient, change how it's measured or stop reporting it altogether.
+
 ## Trade Data Discrepancies
 
 The Federal Reserve's Liberty Street Economics blog (March 2025) revealed significant discrepancies: "This post has suggested that there appears to be upwards of $100 billion in 'missing imports' in U.S. data, and quite possibly at least $50 billion may be accounted for by this de minimis trade."
@@ -39,6 +49,30 @@ When the bubble burst, the consequences were severe. EFG International reported:
 The human toll was significant. The Washington Post reported: "The wildcat boycotts spread at one point in mid-July to over 300 housing projects in about 90 cities, with loans up to 2 trillion yuan ($295 billion) under threat." CNN added that "Nomura analysts estimate that developers delivered only around 60% of homes they pre-sold between 2013 and 2020."
 
 While reports confirm buyers must continue paying mortgages on unfinished properties, specific claims about zombie developers sending one employee to prevent "abandoned" designation need citation.
+
+## The Evergrande Fraud and Corporate Debt Crisis
+
+China's corporate debt reached 297% of GDP by 2022, with property developers at the epicenter of the crisis. Evergrande alone owed $305 billion when it began defaulting in 2021—equivalent to 2% of China's entire GDP. The Congressional Research Service documented the broader implications in their report "Evergrande Group and China's Debt Challenges."
+
+In March 2024, the China Securities Regulatory Commission uncovered massive accounting fraud at Evergrande. The company had overstated 2019 revenue by 214 billion yuan (approximately $30 billion or 50%). For 2020, the overstatement reached 350 billion yuan (approximately $48.6 billion or 80%). Authorities fined Evergrande $580 million and banned its founder from financial markets. In January 2024, a Hong Kong court ordered the company's liquidation.
+
+The crisis extended far beyond Evergrande. By 2021, Chinese developers had defaulted on $114.6 billion of $175 billion in dollar bonds issued since 2021. An estimated 40% of Chinese home sales came from developers that had defaulted since 2021, leaving millions of families with unfinished apartments.
+
+Country Garden, another major developer, warned of an expected loss of 45-55 billion yuan ($6.25 billion) for the first half of 2023. CNN Business reported in October 2023: "China's Country Garden warns of default again as property sales plunge." The company defaulted on a $500 million note that month.
+
+The Evergrande fraud exemplifies the broader pattern: not only are Chinese economic figures unreliable, but even private companies operating within the system engage in systematic data manipulation on a scale that strains credibility—overstating revenues by 80% while authorities looked the other way until collapse became inevitable.
+
+## The Local Government Debt Mountain
+
+By the end of 2023, local government financing vehicles (LGFVs) had accumulated 66 trillion yuan ($9.3 trillion) in debt according to IMF estimates—equivalent to 50% of China's entire GDP. Official government figures acknowledged only 14.3 trillion yuan in "hidden debt," with the actual amount far higher.
+
+The Atlantic Council (2023-2024) summarized Beijing's approach: "Beijing extends and pretends to deal with its mountain of local government debt." In 2024 alone, 4.65 trillion yuan in LGFV bonds matured—13% more than in 2023.
+
+The economics are unsustainable. Rhodium Group's 2022 analysis found that median LGFV asset returns were just 1%, while the average debt interest rate stood at 5.36%. Local governments were losing money on every yuan borrowed.
+
+In November 2024, authorities announced a 3-year debt restructuring program for 10 trillion yuan. However, Fitch Ratings noted in April 2024 that restructured debt represented only 25% of total "hidden" debt—barely scratching the surface. Both Moody's (December 2023) and Fitch (April 2024) placed China's sovereign rating on negative watch, citing concerns about the mounting debt burden.
+
+The LGFV crisis represents another dimension of China's data opacity: official figures acknowledge less than a quarter of the actual problem, while local governments continue accumulating debt they cannot service.
 
 ## Foreign Firms and Data Restrictions
 
