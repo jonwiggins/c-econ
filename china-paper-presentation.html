@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>China's Data Fraud and Economic Challenges</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .presentation-container {
+            width: 100%;
+            max-width: 1200px;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+
+        .slide {
+            display: none;
+            padding: 60px 80px;
+            min-height: 600px;
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        .slide.active {
+            display: block;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        h1 {
+            color: #667eea;
+            font-size: 2.5em;
+            margin-bottom: 30px;
+            border-bottom: 4px solid #764ba2;
+            padding-bottom: 15px;
+        }
+
+        h2 {
+            color: #764ba2;
+            font-size: 2em;
+            margin-bottom: 25px;
+        }
+
+        h3 {
+            color: #667eea;
+            font-size: 1.5em;
+            margin-top: 20px;
+            margin-bottom: 15px;
+        }
+
+        p {
+            line-height: 1.8;
+            color: #333;
+            margin-bottom: 20px;
+            font-size: 1.1em;
+        }
+
+        .title-slide {
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            min-height: 600px;
+        }
+
+        .title-slide h1 {
+            font-size: 3em;
+            border: none;
+        }
+
+        .title-slide .subtitle {
+            font-size: 1.3em;
+            color: #666;
+            margin-top: 20px;
+        }
+
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 40px;
+            background: #f8f9fa;
+            border-top: 2px solid #e0e0e0;
+        }
+
+        .nav-button {
+            padding: 12px 30px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 50px;
+            cursor: pointer;
+            font-size: 1em;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .nav-button:hover:not(:disabled) {
+            background: #764ba2;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .nav-button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+
+        .slide-counter {
+            color: #667eea;
+            font-weight: 600;
+            font-size: 1.1em;
+        }
+
+        .citation-note {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 10px 15px;
+            margin: 15px 0;
+            font-style: italic;
+            color: #856404;
+        }
+
+        .quote {
+            background: #e7f3ff;
+            border-left: 4px solid #2196F3;
+            padding: 15px 20px;
+            margin: 20px 0;
+            font-style: italic;
+        }
+
+        .keyboard-hint {
+            text-align: center;
+            color: #999;
+            font-size: 0.9em;
+            margin-top: 10px;
+        }
+
+        @media (max-width: 768px) {
+            .slide {
+                padding: 40px 30px;
+                min-height: 500px;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            h2 {
+                font-size: 1.6em;
+            }
+
+            .title-slide h1 {
+                font-size: 2.2em;
+            }
+
+            p {
+                font-size: 1em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="presentation-container">
+        <!-- Slide 1: Title -->
+        <div class="slide active title-slide">
+            <h1>China's Data Fraud and Economic Challenges</h1>
+            <p class="subtitle">A Documented Narrative</p>
+        </div>
+
+        <!-- Slide 2: The Population Policy Reversal -->
+        <div class="slide">
+            <h2>The Population Policy Reversal</h2>
+            <p>China's demographic story begins with a dramatic policy reversal. According to Wikipedia's documentation, <span class="quote">"Until the 1960s, the government mostly encouraged families to have as many children as possible, especially during the Great Leap Forward, because of Mao's belief that population growth empowered the country, preventing the emergence of family planning programs earlier in China's development."</span></p>
+            <p>However, this led to a population glut with unintended consequences. The St. Louis Fed noted that <span class="quote">"Fertility fell from more than six in the mid-1960s to less than three in 1980"</span> - even before the one-child policy was implemented.</p>
+            <p>While there were claims about a subsequent baby boom generation that didn't have kids, the demographic transition was already well underway.</p>
+            <div class="citation-note">Citation needed for baby boom generation claims</div>
+        </div>
+
+        <!-- Slide 3: The Population Fraud Allegations (Part 1) -->
+        <div class="slide">
+            <h2>The Population Fraud Allegations</h2>
+            <h3>Yi Fuxian's Research</h3>
+            <p>Yi Fuxian, an obstetrics and gynecology researcher at the University of Wisconsin-Madison, has raised serious concerns about China's population data. According to The Korea Times (July 2022), he argues that:</p>
+            <div class="quote">"Bacille Calmette-Guérin vaccination (against tuberculosis) is mandatory in China for every newborn within 24 hours of birth, and we know that an average of 1.2-1.5 newborns can be vaccinated with one dose of BCG (from one newborn in small hospitals to as many as three in large hospitals)."</div>
+            <p>Using this methodology, Yi suggests <span class="quote">"China's real population is not 1.41 billion (the official figure) and could be even smaller than my own estimate of 1.28 billion."</span></p>
+        </div>
+
+        <!-- Slide 4: The Population Fraud Allegations (Part 2) -->
+        <div class="slide">
+            <h2>The Population Fraud Allegations</h2>
+            <h3>Data Breach Evidence</h3>
+            <p>The South China Morning Post (July 2019) reported that <span class="quote">"The real size of China's population could be 115 million fewer than the official number, putting China behind India in terms of population."</span></p>
+            <p>The concerns gained credibility when Fortune reported in July 2022 that <span class="quote">"A hacker this week released 23 terabytes of data containing the personal details of 1 billion Chinese citizens in what some experts say is the largest data breach in history."</span></p>
+            <p>The leaked Shanghai police database suggested population figures lower than official statistics.</p>
+            <p>The East Asia Forum noted that <span class="quote">"The actual rate is instead closer to the 1.2 [fertility rate] assumed in the 'low variant' projection that predicts a population of below 700 million in the same timeframe [by 2100]."</span></p>
+            <div class="citation-note">Citations needed for: specific claims about doctors lying about vaccine doses, regional party leaders fabricating school enrollment, government databases including fraudulent identities, and current professors claiming China's population is only 700 million today</div>
+        </div>
+
+        <!-- Slide 5: Economic Data Manipulation -->
+        <div class="slide">
+            <h2>Economic Data Manipulation</h2>
+            <h3>Li Keqiang's Admission</h3>
+            <p>Perhaps the most damning admission came from China's own leadership. According to a 2007 U.S. diplomatic cable released by WikiLeaks, Li Keqiang (then Party Secretary of Liaoning, later Premier) told U.S. Ambassador Clark Randt that:</p>
+            <div class="quote">"GDP figures are 'man-made' and therefore unreliable."</div>
+            <p>The cable continued: <span class="quote">"Li said he personally used three other indicators – electricity consumption, railway cargo volumes and bank loans disbursed – to evaluate the economic situation."</span></p>
+            <p>Local officials' incentives to fabricate data are well-documented. The Federal Reserve noted in 2018 that <span class="quote">"Chinese government regulators understand that certain MLPS requirements... create tremendous costs and challenges for foreign companies."</span></p>
+            <p>The promotion system based on hitting economic targets has created systemic data manipulation.</p>
+            <div class="citation-note">Citation needed for specific figures about 20-year fabrication</div>
+        </div>
+
+        <!-- Slide 6: Trade Data Discrepancies -->
+        <div class="slide">
+            <h2>Trade Data Discrepancies</h2>
+            <p>The Federal Reserve's Liberty Street Economics blog (March 2025) revealed significant discrepancies:</p>
+            <div class="quote">"This post has suggested that there appears to be upwards of $100 billion in 'missing imports' in U.S. data, and quite possibly at least $50 billion may be accounted for by this de minimis trade."</div>
+            <p>Bloomberg reported in September 2024 that <span class="quote">"The US Treasury previously estimated the trade surplus discrepancy was equivalent to more than 1% of China's gross domestic product in 2023."</span></p>
+            <div class="citation-note">Citation needed for statement about hundreds of billions with a confusing Chinese clarification</div>
+        </div>
+
+        <!-- Slide 7: The Real Estate Crisis (Part 1) -->
+        <div class="slide">
+            <h2>The Real Estate Crisis</h2>
+            <h3>The Property Sector's Dominance</h3>
+            <p>The property sector's dominance and subsequent crisis are well-documented. Business Standard reported in September 2025 that <span class="quote">"Demand deposits, which savers can withdraw at any time, pay just 0.05 per cent per year,"</span> forcing Chinese citizens to invest in real estate.</p>
+            <p>Fortune (December 2021) noted:</p>
+            <div class="quote">"A boom in homeownership over the past two decades has funneled an enormous share of China's household wealth—70%—into real estate, according to Loomis Sayles. In the U.S., that share is 35%."</div>
+            <p>The IMF's Kenneth Rogoff calculated that <span class="quote">"real estate, including both residential and commercial real estate—and taking into account both direct and indirect demand—accounted for 25 percent of China's economy in 2021 (about 22 percent excluding imported content). The share rises to 31 percent if infrastructure is included."</span></p>
+        </div>
+
+        <!-- Slide 8: The Real Estate Crisis (Part 2) -->
+        <div class="slide">
+            <h2>The Real Estate Crisis</h2>
+            <h3>The Collapse and Its Consequences</h3>
+            <p>When the bubble burst, the consequences were severe. EFG International reported:</p>
+            <div class="quote">"China's economy grew 5.2% in 2023, hitting the government target of 'around 5%'. However, this number was flattered by large base effects. The property sector deleveraging continues to weigh on the economy."</div>
+            <p>This growth despite a real estate collapse accounting for 30% of GDP raised questions about data reliability.</p>
+            <p>The human toll was significant. The Washington Post reported:</p>
+            <div class="quote">"The wildcat boycotts spread at one point in mid-July to over 300 housing projects in about 90 cities, with loans up to 2 trillion yuan ($295 billion) under threat."</div>
+            <p>CNN added that <span class="quote">"Nomura analysts estimate that developers delivered only around 60% of homes they pre-sold between 2013 and 2020."</span></p>
+            <div class="citation-note">Citation needed for specific claims about zombie developers sending one employee to prevent "abandoned" designation</div>
+        </div>
+
+        <!-- Slide 9: Foreign Firms and Data Restrictions -->
+        <div class="slide">
+            <h2>Foreign Firms and Data Restrictions</h2>
+            <p>CNBC reported in May 2023 that <span class="quote">"Shanghai-based Wind has made part of its data such as home sale numbers, which used to be updated regularly, inaccessible for users based outside mainland China since September last year."</span></p>
+            <p>The outlet also noted: <span class="quote">"Chinese authorities have carried out an investigation into consulting firm Capvision Partners"</span> and <span class="quote">"Police visited Bain & Co's office in Shanghai and questioned staff."</span></p>
+            <p>Foreign Policy (May 2023) observed:</p>
+            <div class="quote">"The move follows a recent pattern of Beijing blocking access to critical business data, from patents to local yearbooks, as well as a series of raids on foreign firms—particularly those doing due diligence work."</div>
+            <div class="citation-note">Citation needed for claims about offices being "welded shut with people inside"</div>
+        </div>
+
+        <!-- Slide 10: The Demographic Time Bomb (Part 1) -->
+        <div class="slide">
+            <h2>The Demographic Time Bomb</h2>
+            <h3>The Working-Age Population Crisis</h3>
+            <p>The Atlantic Council reported in 2023:</p>
+            <div class="quote">"China's working-age population, aged 16-59, has already begun to contract, falling by forty million workers since 2010 to 880 million today. The government predicts a loss of another thirty-five million workers over the next five years."</div>
+        </div>
+
+        <!-- Slide 11: The Demographic Time Bomb (Part 2) -->
+        <div class="slide">
+            <h2>The Demographic Time Bomb</h2>
+            <h3>The Long-Term Projections</h3>
+            <p>The Conversation (March 2025) painted a stark picture:</p>
+            <div class="quote">"According to U.N. figures, in 2023 just under 20% of China's population was in the current retirement bracket of 60 and over. But by 2100, this is projected to increase to an astounding high of over 52%..."</div>
+            <div class="quote">"...around 12% of China's population are young workers, aged 20 to 29, while 46% are older employees aged 30 to 59. But by 2100, this labor force is projected to drop dramatically to just over 7% for young workers and around 29% for 30- to 59-year-olds."</div>
+            <p>While some analysts warn of severe consequences for the Chinese state, predictions of "total collapse" need specific citation beyond general warnings about demographic and economic challenges.</p>
+        </div>
+
+        <!-- Navigation -->
+        <div class="navigation">
+            <button class="nav-button" id="prevBtn" onclick="changeSlide(-1)">← Previous</button>
+            <div>
+                <span class="slide-counter">
+                    <span id="currentSlide">1</span> / <span id="totalSlides">11</span>
+                </span>
+                <div class="keyboard-hint">Use arrow keys to navigate</div>
+            </div>
+            <button class="nav-button" id="nextBtn" onclick="changeSlide(1)">Next →</button>
+        </div>
+    </div>
+
+    <script>
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.slide');
+        const totalSlides = slides.length;
+
+        document.getElementById('totalSlides').textContent = totalSlides;
+
+        function showSlide(n) {
+            slides[currentSlide].classList.remove('active');
+            currentSlide = (n + totalSlides) % totalSlides;
+            slides[currentSlide].classList.add('active');
+
+            document.getElementById('currentSlide').textContent = currentSlide + 1;
+
+            // Update button states
+            document.getElementById('prevBtn').disabled = currentSlide === 0;
+            document.getElementById('nextBtn').disabled = currentSlide === totalSlides - 1;
+        }
+
+        function changeSlide(direction) {
+            const newSlide = currentSlide + direction;
+            if (newSlide >= 0 && newSlide < totalSlides) {
+                showSlide(newSlide);
+            }
+        }
+
+        // Keyboard navigation
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowLeft') {
+                changeSlide(-1);
+            } else if (e.key === 'ArrowRight') {
+                changeSlide(1);
+            }
+        });
+
+        // Initialize
+        showSlide(0);
+    </script>
+</body>
+</html>
