@@ -22,6 +22,18 @@ Perhaps the most damning admission came from China's own leadership. According t
 
 Local officials' incentives to fabricate data are well-documented. The Federal Reserve noted in 2018 that "Chinese government regulators understand that certain MLPS requirements... create tremendous costs and challenges for foreign companies." The promotion system based on hitting economic targets has created systemic data manipulation, though specific figures about 20-year fabrication need additional citation.
 
+## The Silencing of Gao Shanwen
+
+The consequences for publicly questioning official economic data became starkly evident in December 2023. Gao Shanwen, chief economist at state-owned SDIC Securities and a former central bank official, spoke at a Washington forum hosted by the Peterson Institute for International Economics. His comments would lead to swift retribution.
+
+At the December 12 event, Gao stated: "My own speculation is that in the past two to three years, the real number [for GDP growth] on average might be around 2 percent, even though the official number is close to 5 percent." He further claimed that "The GDP growth rate has been overestimated by 3 percentage points each year, and by 10 percentage points cumulatively."
+
+When Xi Jinping learned of these remarks, he was reportedly furious and ordered an investigation of Gao. Authorities subsequently disciplined him, and Gao has been banned from making public statements for an unspecified period, though he retained his position at SDIC Securities.
+
+The silencing extended beyond the initial incident. In December 2024, when Gao delivered another speech at an investor conference in Shenzhen warning about youth unemployment and economic distress, Chinese internet censors removed the full text from WeChat. The platform displayed a notice stating the content violated regulations.
+
+Gao's treatment sends a clear message: even senior economists at state-owned firms face punishment for publicly questioning official economic narratives, regardless of their credentials or the accuracy of their analysis.
+
 ## The Youth Unemployment Cover-Up
 
 In summer 2023, China's youth unemployment data hit consecutive record highs: 20.4% in April, 20.8% in May, and 21.3% in June. Rather than address the crisis, authorities suspended the data entirely. NBC News reported in August 2023 that "China, facing record youth unemployment, says it will stop releasing data about it." TIME Magazine noted the timing: "Amid Rising Joblessness, China Stops Publishing Its Youth Unemployment Rate."
